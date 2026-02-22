@@ -2,7 +2,23 @@
       "version": 1,
       "show_message": true,
       "title": "Yeni Güncelleme!",
-      "message": "",
+  "messages": {
+    "tr": "Artık reklam yok, güle güle kullanın!",
+    "en": "No more ads, enjoy!",
+    "de": "Keine Werbung mehr, viel Spaß!","es": "No más anuncios, ¡disfruta!",
+    "fr": "Plus de publicités, profitez-en !",
+    "it": "Niente più pubblicità, divertiti!",
+    "ru": "Больше нет рекламы, наслаждайтесь!",
+    "ar": "لا إعلانات بعد الآن، استمتعوا!",
+    "zh": "没有广告了，祝您使用愉快！",
+    "zh_TW": "沒有廣告了，祝您使用愉快！",
+    "ja": "広告はなくなりました。お楽しみください！",
+    "ko": "더 이상 광고가 없습니다. 즐겁게 사용하세요!",
+    "hi": "अब कोई विज्ञापन नहीं, आनंद लें!",
+    "fa": "دیگر تبلیغاتی وجود ندارد، لذت ببرید!",
+    "pt": "Não há mais anúncios, aproveite!"
+  }
+
       "link_url": "https://sizin-websiteniz.com/daha-fazla-bilgi"
     }
     
