@@ -1,7 +1,5 @@
-    {
-      "version": 1,
-      "show_message": true,
-      "title": "Yeni Güncelleme!",
+{
+  "show_message": true,
   "messages": {
     "tr": "Artık reklam yok, güle güle kullanın!",
     "en": "No more ads, enjoy!",
@@ -18,7 +16,6 @@
     "fa": "دیگر تبلیغاتی وجود ندارد، لذت ببرید!",
     "pt": "Não há mais anúncios, aproveite!"
   }
+}
 
-      "link_url": "https://raw.githubusercontent.com/enginuzunoglu/enginuzunoglu.github.io/main/odt-message.json"
-    }
     
