@@ -1,21 +1,21 @@
 {
   "show_message": true,
   "messages": {
-    "tr": "Artık reklam yok, güle güle kullanın!",
-    "en": "No more ads, enjoy!",
-    "de": "Keine Werbung mehr, viel Spaß!",
-    "es": "No más anuncios, ¡disfruta!",
-    "fr": "Plus de publicités, profitez-en !",
-    "it": "Niente più pubblicità, divertiti!",
-    "ru": "Больше нет рекламы, наслаждайтесь!",
-    "ar": "لا إعلانات بعد الآن، استمتعوا!",
-    "zh": "没有广告了，祝您使用愉快！",
-    "zh_TW": "沒有廣告了，祝您使用愉快！",
-    "ja": "広告はなくなりました。お楽しみください！",
-    "ko": "더 이상 광고가 없습니다. 즐겁게 사용하세요!",
-    "hi": "अब कोई विज्ञापन नहीं, आनंद लें!",
-    "fa": "دیگر تبلیغاتی وجود ندارد، لذت ببرید!",
-    "pt": "Não há mais anúncios, aproveite!"
+    "tr": "Yeni 'Özel Ders Takip Plus' yolda! İstek ve önerilerinizi bize bildirin (Tıklayın)",
+    "en": "New 'Private Lesson Tracker Plus' is coming! Share your requests & suggestions (Click here)",
+    "de": "Das neue 'Privatunterricht-Tracker Plus' kommt! Teilen Sie uns Ihre Wünsche mit (Klicken)",
+    "es": "¡Llega el nuevo 'Seguimiento de Clases Plus'! Comparte tus sugerencias (Haz clic)",
+    "fr": "Le nouveau 'Suivi de Cours Particuliers Plus' arrive ! Partagez vos idées (Cliquez)",
+    "it": "Il nuovo 'Registro Lezioni Private Plus' è in arrivo! Condividi i tuoi suggerimenti (Clicca)",
+    "ru": "Новый 'Учет Частных Уроков Plus' уже в пути! Поделитесь своими пожеланиями (Нажать)",
+    "ar": "تطبيق 'متابعة الدروس الخصوصية بلس' الجديد قادم! شاركنا اقتراحاتك (انقر هنا)",
+    "zh": "全新的 '私人课跟踪 Plus' 即将到来！请分享您的建议 (点击)",
+    "zh_TW": "全新的 '私人課跟蹤 Plus' 即即將到來！請分享您的建議 (點擊)",
+    "ja": "新『個人レッスン管理 Plus』が登場！あなたの要望を聞かせてください (クリック)",
+    "ko": "جديد '개인 레슨 추적 Plus' 출시 예정! 제안 및 요청을 공유해주세요 (클릭)",
+    "hi": "नया 'प्राइवेट लेसन ट्रैकर प्लस' आ रहा है! अपने सुझाव साझा करें (क्लिक करें)",
+    "fa": "نسخه جدید 'مدیریت تدریس خصوصی پلاس' در راه است! پیشنهادات خود را ارسال کنید (کلیک کنید)",
+    "pt": "O novo 'Gestão de Aulas Plus' está chegando! Partilhe as suas sugestões (Clique)"
   },
-  "link_url": ""
+  "link_url": "https://forms.gle/wfCwa8t2atYHgpvm9"
 }
